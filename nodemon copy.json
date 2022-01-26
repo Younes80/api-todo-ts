@@ -1,0 +1,11 @@
+{
+	"env": {
+		"MONGO_USER": "USERNAME",
+		"MONGO_PASSWORD": "PASSWORD",
+		"MONGO_DB": "DB_NAME"
+	}
+}
+
+// 1. CHANGE INFORMATION
+// 2. FILE NAME -> nodemon.json
+// 3. DELETE COMMENTS
